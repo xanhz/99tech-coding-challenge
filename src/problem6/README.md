@@ -14,7 +14,7 @@
   - Auth module to verify if user is authenticated or not
   - Score module to live update score
   - User module to get top 10 user
-- Props:
+- Pros:
   - Simple
   - Easy to implement
 - Cons:

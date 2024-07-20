@@ -14,7 +14,7 @@ function sumToNRecursive(n: number): number {
 }
 
 /**
- * - Props: Easy
+ * - Pros: Easy
  * - Cons: Time increase by n
  * - Time complexity: O(n)
  * - Space complexity: O(1)
@@ -28,7 +28,7 @@ function sumToNLoop(n: number): number {
 }
 
 /**
- * - Props: Fastest, easy
+ * - Pros: Fastest, easy
  * - Time complexity: O(1)
  * - Space complexity: O(1)
  */
